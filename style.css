@@ -1,0 +1,13 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.card-body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.card-text {
+  color: grey;
+  font-size: 0.8em;
+}
